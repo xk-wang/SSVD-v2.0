@@ -22,4 +22,5 @@ SSVD v1.0 was distributed at https://github.com/itec-hust/Sight-Singing-Vocal-Da
 ### Sight-singing Talent applet
 
 Sight-singing Talent is an online WeChat applet that has more than 600 long-term users and more than 60,000 effective Sight-singing samples.
+
 <img src="qr.jpg" alt="QR code" style="zoom:150%;" />

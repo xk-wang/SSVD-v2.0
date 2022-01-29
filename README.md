@@ -1,7 +1,5 @@
 # Sight-singing Vocal Dataset v2.0
 
-<img src="icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
-
 ## SSVD dataset
 **Sight-singing Vocal Dataset (SSVD)** dataset includes sight-singing songs for automatic singing transcription,  recorded from the Sight-singing Talent WeChat applet. SSVD v2.0 (this repository) is used in our **ICASSP2022** paper:  *MUSICYOLO: A SIGHT-SINGING ONSET/OFFSET DETECTION FRAMEWORK BASED ON OBJECT DETECTION INSTEAD OF SPECTRUM FRAMES*. 
 
@@ -24,5 +22,5 @@ SSVD v1.0 was distributed at https://github.com/itec-hust/Sight-Singing-Vocal-Da
 ### Sight-singing Talent applet
 
 Sight-singing Talent is an online WeChat applet that has more than 600 long-term users and more than 60,000 effective Sight-singing samples.
-
+<img src="icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
 <img src="qr.jpg" alt="QR code" style="zoom:150%;" />
